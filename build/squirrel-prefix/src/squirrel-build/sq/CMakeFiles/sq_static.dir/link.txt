@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/sq_static.dir/sq.c.o  -o sq_static ../squirrel/libsquirrel_static.a ../sqstdlib/libsqstdlib_static.a -lstdc++ -lm 

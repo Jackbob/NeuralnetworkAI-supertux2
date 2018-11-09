@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsexp.a  CMakeFiles/sexp.dir/external/sexp-cpp/src/io.cpp.o CMakeFiles/sexp.dir/external/sexp-cpp/src/lexer.cpp.o CMakeFiles/sexp.dir/external/sexp-cpp/src/parser.cpp.o CMakeFiles/sexp.dir/external/sexp-cpp/src/util.cpp.o CMakeFiles/sexp.dir/external/sexp-cpp/src/value.cpp.o
-/usr/bin/ranlib libsexp.a

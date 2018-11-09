@@ -1,7 +1,0 @@
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/install/strip.dir
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/edit_cache.dir
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/tinygettext.dir
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/rebuild_cache.dir
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/list_install_components.dir
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/install/local.dir
-/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext-prefix/src/tinygettext-build/CMakeFiles/install.dir

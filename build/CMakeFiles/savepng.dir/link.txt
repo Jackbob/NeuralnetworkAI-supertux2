@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsavepng.a  CMakeFiles/savepng.dir/external/SDL_SavePNG/savepng.c.o
-/usr/bin/ranlib libsavepng.a
