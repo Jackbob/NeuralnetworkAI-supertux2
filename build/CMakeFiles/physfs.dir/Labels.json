@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs-complete.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-install.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-mkdir.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-download.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-update.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-patch.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-configure.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"physfs"
+		],
+		"name" : "physfs"
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/sq.dir/sq.c.o  -o sq -Wl,-rpath,/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-build/sqstdlib:/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-build/squirrel: ../sqstdlib/libsqstdlib.so.0.0.0 ../squirrel/libsquirrel.so.0.0.0 

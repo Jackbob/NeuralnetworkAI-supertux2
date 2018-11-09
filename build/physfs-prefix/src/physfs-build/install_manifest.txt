@@ -1,0 +1,3 @@
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs/lib/libphysfs.a
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs/include/physfs.h
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs/lib/pkgconfig/physfs.pc

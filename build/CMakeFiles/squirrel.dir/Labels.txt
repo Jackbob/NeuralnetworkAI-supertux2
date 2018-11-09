@@ -1,0 +1,13 @@
+# Target labels
+ squirrel
+# Source files and their labels
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel-complete.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-install.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-mkdir.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-download.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-update.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-patch.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-configure.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-build.rule

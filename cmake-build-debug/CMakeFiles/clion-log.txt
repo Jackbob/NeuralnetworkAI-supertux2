@@ -1,0 +1,34 @@
+/home/jakob/Programs/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jakob/Documents/Projects/AI-Project/supertux
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   filesystem
+--   system
+--   date_time
+--   locale
+-- Checking for one of the modules 'sdl2'
+CMake Error at /home/jakob/Programs/clion-2018.1.2/bin/cmake/share/cmake-3.10/Modules/FindPkgConfig.cmake:645 (message):
+  None of the required 'sdl2' found
+Call Stack (most recent call first):
+  CMakeLists.txt:143 (pkg_search_module)
+
+
+-- Checking for one of the modules 'SDL2_image'
+CMake Error at /home/jakob/Programs/clion-2018.1.2/bin/cmake/share/cmake-3.10/Modules/FindPkgConfig.cmake:645 (message):
+  None of the required 'SDL2_image' found
+Call Stack (most recent call first):
+  CMakeLists.txt:144 (pkg_search_module)
+
+
+-- Found OggVorbis: /usr/lib/x86_64-linux-gnu/libvorbisfile.so;/usr/lib/x86_64-linux-gnu/libvorbis.so;/usr/lib/x86_64-linux-gnu/libogg.so
+-- Could NOT find PhysFS (missing: PHYSFS_LIBRARY PHYSFS_INCLUDE_DIR) 
+CMake Error at /home/jakob/Programs/clion-2018.1.2/bin/cmake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:137 (message):
+  Could NOT find CURL (missing: CURL_LIBRARY CURL_INCLUDE_DIR)
+Call Stack (most recent call first):
+  /home/jakob/Programs/clion-2018.1.2/bin/cmake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:378 (_FPHSA_FAILURE_MESSAGE)
+  /home/jakob/Programs/clion-2018.1.2/bin/cmake/share/cmake-3.10/Modules/FindCURL.cmake:48 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:245 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/jakob/Documents/Projects/AI-Project/supertux/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/jakob/Documents/Projects/AI-Project/supertux/cmake-build-debug/CMakeFiles/CMakeError.log".

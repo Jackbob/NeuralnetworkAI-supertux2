@@ -1,0 +1,17 @@
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/install/strip.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/savepng.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/package.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/sexp.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/edit_cache.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/SDL_ttf.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/install/local.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/install.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/supertux2_c.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/supertux2_lib.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/supertux2.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/tinygettext.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/package_source.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/rebuild_cache.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs.dir
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/list_install_components.dir

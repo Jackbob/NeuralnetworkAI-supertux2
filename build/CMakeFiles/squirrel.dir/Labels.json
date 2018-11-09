@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/squirrel-complete.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-install.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-mkdir.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-download.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-update.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-patch.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-configure.rule"
+		},
+		{
+			"file" : "/home/jakob/Documents/Projects/AI-Project/supertux/build/squirrel-prefix/src/squirrel-stamp/squirrel-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"squirrel"
+		],
+		"name" : "squirrel"
+	}
+}

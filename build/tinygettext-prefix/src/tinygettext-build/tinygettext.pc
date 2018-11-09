@@ -1,0 +1,16 @@
+# Unfortunately, since this project is built with cmake,
+# these variables can't properly be set.
+
+prefix=/home/jakob/Documents/Projects/AI-Project/supertux/build/tinygettext
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: tinygettext
+Description: tiny, minimal gettext replacement
+Version: 0.1
+URL: https://github.com/tinygettext/tinygettext
+Requires:
+Libs: -L${libdir} -ltinygettext
+Libs.private:
+Cflags: -I${includedir}

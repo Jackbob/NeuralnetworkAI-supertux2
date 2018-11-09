@@ -1,0 +1,13 @@
+# Target labels
+ physfs
+# Source files and their labels
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/CMakeFiles/physfs-complete.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-install.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-mkdir.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-download.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-update.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-patch.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-configure.rule
+/home/jakob/Documents/Projects/AI-Project/supertux/build/physfs-prefix/src/physfs-stamp/physfs-build.rule
